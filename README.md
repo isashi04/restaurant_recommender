@@ -4,4 +4,4 @@ This my final personal project on the CodeOp bootcamp. On this project I had 2 m
 * Create a list of recommendations to a restaurateur
 based on the Yelp dataframe.
 
-The problem with this project is that the main data is too big to the share using github, so in order to reproduce this project it is necesary to download and clean the Yelp dataset.
+The problem with this project is that the  **dataset is too big** to be shared using github, so in order to reproduce this project it is necesary to download and clean the Yelp dataset.
